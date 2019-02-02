@@ -1,6 +1,0 @@
-Users fit the electronics and touch-screens to a wide-ranging variety of machines.
-
-And each user has different preferences for repeated maintenance tasks (loading & unloading filament, calibration, etc.).
-A maintenance task consists of a G-code macro - a string with multiple line breaks.
-Allow the user to define a macro, and, if any are defined, build a new view panel where to put an activation button for each macro.
-Ideally a user-specified icon can be provided to act as a button, if not, display the macro name in plain text to avoid confusion.
