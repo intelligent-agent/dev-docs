@@ -4,6 +4,8 @@ Toggle is missing the controls to allow the user to increase or decrease the mac
 
 Add controls to increase and reduce the feed and the flow.
 
-The feed is going to modify the global printer speed - set it to 90% and all subsequent given movements will be executed at 90% of their programmed speed.
+The feed is going to modify the global printer speed 
+  - set it to 90% and all subsequent given movements will be executed at 90% of their programmed speed.
 
-The flow is the amount of the extrusion only - set it to 90% and the extruded plastic volume will be reduced from the move command's programmed speed.
+The flow is the amount of the extrusion only 
+- set it to 90% and the extruded plastic volume will be reduced from the move command's programmed speed.
